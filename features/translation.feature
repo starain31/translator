@@ -1,5 +1,5 @@
 Feature: Translation
   Scenario: Translate from source language to target language
-    Given user is in main page
-    When user asked to translate "Hello" in english to bangla
-    Then translated text should be "পৃথিবী"
+    Given translate from 'english' to 'bengali' selected
+    When 'Hello' is given to translate
+    Then translated message should be 'ওহে'
