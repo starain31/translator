@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/starain31/translator/issues"
   },
-  "homepage": "https://github.com/starain31/translator#readme"
+  "homepage": "https://github.com/starain31/translator#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.2.1"
+  }
 }
