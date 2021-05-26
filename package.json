@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/starain31/translator#readme",
   "devDependencies": {
-    "@cucumber/cucumber": "^7.2.1"
+    "@cucumber/cucumber": "^7.2.1",
+    "hamjest": "^3.7.2"
   }
 }
