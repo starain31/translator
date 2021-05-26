@@ -1,0 +1,22 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "A simple translator web app.",
+  "main": "index.html",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starain31/translator.git"
+  },
+  "keywords": [
+    "translator"
+  ],
+  "author": "starain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starain31/translator/issues"
+  },
+  "homepage": "https://github.com/starain31/translator#readme"
+}
